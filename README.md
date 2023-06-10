@@ -6,6 +6,7 @@ For a seamless eCommerce shopping experience, it is essential to deliver the pro
 ![Picture1](https://github.com/royalbaswan/ITP_Mini_Project/assets/132448830/651237ea-ea26-4bf7-9a29-c27a99eb4f34)
 
 Use below table to refer to client’s data. Please note that a client can be a sender or receiver.
+
 ![image003](https://github.com/royalbaswan/ITP_Mini_Project/assets/132448830/c8fd8ff8-8331-4fa9-9011-63409b7ce2db)
 
 **Questions:**
