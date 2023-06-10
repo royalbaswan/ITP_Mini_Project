@@ -10,15 +10,15 @@ Use below table to refer to client’s data. Please note that a client can be a 
 ![image003](https://github.com/royalbaswan/ITP_Mini_Project/assets/132448830/c8fd8ff8-8331-4fa9-9011-63409b7ce2db)
 
 **Questions:**
-Q1. Create a Dictionary of lists to store the information of shipments given in the table. The key should be the shipment id and the value with it’s details. 
-Q2. Create a Dictionary to store the information of clients given in the table.
-Q3. Write a code to replace client’s id with their respective name in shipment dictionary using a loop and dictionary comprehension
-Q4. Print all shipment details that are sent by Phillip
-Q5. Print all shipment details that are received by Ramya
-Q6. Print all shipments which are in 'In-Transit' status
-Q7. Print all shipments which are delivered within 7 days of courier Start date
-Q8. Print all shipments which are delivered after 15 days of courier start date or not yet been delivered.
-Q9. Print the shipment details whose shipment cost in the range of 200 to 300
-Q10. Print the name of all senders whose delivery status is ‘in-transit’.
-Q11. Print the shipment ID that has the highest shipment cost.
-Q12. Print all the shipment details that are delivered by ‘John’ and received by ‘Omega III’
+1. Create a Dictionary of lists to store the information of shipments given in the table. The key should be the shipment id and the value with it’s details.
+2. Create a Dictionary to store the information of clients given in the table.
+3. Write a code to replace client’s id with their respective name in shipment dictionary using a loop and dictionary comprehension.
+4. Print all shipment details that are sent by Phillip.
+5. Print all shipment details that are received by Ramya.
+6. Print all shipments which are in 'In-Transit' status.
+7. Print all shipments which are delivered within 7 days of courier Start date.
+8. Print all shipments which are delivered after 15 days of courier start date or not yet been delivered.
+9. Print the shipment details whose shipment cost in the range of 200 to 300.
+10. Print the name of all senders whose delivery status is ‘in-transit’.
+11. Print the shipment ID that has the highest shipment cost.
+12. Print all the shipment details that are delivered by ‘John’ and received by ‘Omega III’.
